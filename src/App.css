@@ -1,0 +1,28 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+a {
+	color: inherit;
+	text-decoration: inherit;
+}
+
+html {
+	font-size: 62.5%;
+}
+
+:root {
+	--clr-rich-black-5: #11151c;
+	--clr-prussian-blue-5: #212d40;
+	--clr-charcoal-5: #364156;
+	--clr-rose-taupe-5: #7d4e57;
+	--clr-jasper-5: #d66853;
+	--clr-poppy-5: #df2935;
+	--clr-wisteria-5: #bc96e6;
+	--clr-pale-dogwood-5: #dfbbb1;
+	--clr-white-1: #ffffffeb;
+	--clr-white-2: #eae8f1eb;
+	--clr-gray-5: rgb(200, 200, 200);
+}
